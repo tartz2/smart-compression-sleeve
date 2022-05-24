@@ -1,7 +1,8 @@
 # Smart-Compression-Sleeve
-A workout sleeve with software that helps you track how to better perform and what workouts you've done for how long
+A workout sleeve with software that helps you track how to better perform and what workouts you've done for how long.  
+This was a final project for CS 479 - Wearables and Nearables Technology. We chose this idea because it was practical enough to implement and had potential to be used in a real setting, whether its therapeutic or for general training
 #
-The UI is very straightforward with two dropdown menus. The menu on the left will allow you to select bicep workouts, while the menu on the right will allow you to select tricep workouts. From there, the images should load in, and you will be able to start your workout.
+The UI is very straightforward with two dropdown menus. The menu on the left will allow you to select bicep workouts, while the menu on the right will allow you to select tricep workouts. From there, the images should load in, and you will be able to start your workout while graphs display your bicep and tricep activity.
 <!--[unnamed2](https://user-images.githubusercontent.com/70288532/170083753-df6daaf0-d8c5-4545-a2fe-fdb5dc846c85.png =320x180)-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70288532/170083753-df6daaf0-d8c5-4545-a2fe-fdb5dc846c85.png" width="480" height="270"> <img src="https://user-images.githubusercontent.com/70288532/170085957-bbdbfa02-dad5-4b87-b748-5adcd85c7458.png" width="480" height="270">
